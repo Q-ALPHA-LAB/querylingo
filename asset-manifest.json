@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/querylingo/static/css/main.bc7db2dd.css",
+    "main.js": "/querylingo/static/js/main.5876d990.js",
+    "static/js/453.52f43f46.chunk.js": "/querylingo/static/js/453.52f43f46.chunk.js",
+    "index.html": "/querylingo/index.html",
+    "main.bc7db2dd.css.map": "/querylingo/static/css/main.bc7db2dd.css.map",
+    "main.5876d990.js.map": "/querylingo/static/js/main.5876d990.js.map",
+    "453.52f43f46.chunk.js.map": "/querylingo/static/js/453.52f43f46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc7db2dd.css",
+    "static/js/main.5876d990.js"
+  ]
+}
