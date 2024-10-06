@@ -8,7 +8,6 @@ const Header: React.FC = () => {
         <nav>
           <ul>
             <li><a href="#features">Features</a></li>
-            <li><a href="#pricing">Pricing</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </nav>
